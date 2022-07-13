@@ -1,0 +1,5 @@
+1. select sname,age from student;
+2. select * from student where age >18;
+3. select snum from enrolled where cname= 'Operating System Design';
+4. select student.sname from student , enrolled where student.snum = enrolled.snum and cname ='Database Systems';
+5. select fname from faculty where deptid = 68 or deptid =20;
