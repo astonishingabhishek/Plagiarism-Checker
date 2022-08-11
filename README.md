@@ -8,8 +8,8 @@ Technologies used - React JS,Node JS ,Mongo , Flask.
 ## Steps to RUN
 * First download or clone the codes and then follow thses steps :
 
-1. For front-end
-go inside "frontend" folder
+1. For front-end,
+ in "frontend" folder
 run following commands-
 ```
 npm i
